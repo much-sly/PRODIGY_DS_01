@@ -12,5 +12,5 @@
 4 Gathering key Insights.
 
 Below is a plot showing the distribution of income groups per region within the dataset.
-![Pivot Table](Trend.PNG)
+![Pivot Table](Pivot%20Table.PNG)
 
